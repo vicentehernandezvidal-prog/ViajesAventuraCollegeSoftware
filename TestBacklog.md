@@ -7,7 +7,7 @@
 - seguridad 
 - persostencia (BD)
 
-
+wazaaaaaaa
 ## roles: 
 
 product owner -> pipe
