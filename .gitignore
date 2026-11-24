@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciales: NUNCA subir el .env real
+.env
+.env.*
+generar_clave.py
+test01.sessions.sql
+!.env.example
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
