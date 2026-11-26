@@ -4,7 +4,6 @@ Proyecto académico de la asignatura **TI3021 – Programación Orientada a Obje
 
 El objetivo es diseñar y desarrollar una solución de software en Python para apoyar la operación de **Viajes Aventura**, empresa dedicada a la planificación y venta de servicios turísticos. El sistema debe gestionar destinos, paquetes turísticos y reservas, incorporando autenticación, persistencia de datos y medidas para proteger la información de los clientes.
 
-> **Estado del repositorio:** la versión consultada contiene únicamente un README inicial, un borrador de backlog y un archivo de prueba. Por ello, este documento describe el alcance y una propuesta de organización; no afirma que las funcionalidades o la arquitectura ya estén implementadas. Actualiza esta documentación a medida que el equipo tome decisiones y complete el desarrollo.
 
 ## Objetivos del proyecto
 

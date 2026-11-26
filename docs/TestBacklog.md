@@ -1,27 +1,22 @@
 
 ## que hay que hacer? 
 
-- requerimientos no funcionales
+- ~ requerimientos no funcionales ~
+- ~ diagramas visagi ~ -> pedir revision profe
+- diagramas de bd
+- diagrama de clases
 - modelado de solucion -> planificar proyecto
 - pyhton 
 - seguridad 
-- persostencia (BD)
+- persistencia (BD)
 
-wazaaaaaaa
+
 ## roles: 
 
 product owner -> pipe
 scrum master -> vicho
 developers -> pipe y vicho
 
-
-## backlog: 
-tenemos aprox 2 semanas 
-
-- backlog -> que hacer, con que dificultad, cuando hay que hacerlo y hasta cuando
-
-- diagramas de bd
-- diagrama de clases
 
 
 
