@@ -1,7 +1,6 @@
 ## Url directo al kanban
 https://trello.com/b/lyIILtqz/viajes-aventura-poo
 
-
 ## que hay que hacer? 
 - [] ~requerimientos no funcionales~ -> pedir revision profe
 - [] ~diagramas visagi~ -> pedir revision profe
@@ -11,7 +10,6 @@ https://trello.com/b/lyIILtqz/viajes-aventura-poo
 - [] pyhton -> empezarlo lunes 
 - [] persistencia (BD)
 - [] seguridad 
-
 
 ## roles: 
 product owner -> pipe
