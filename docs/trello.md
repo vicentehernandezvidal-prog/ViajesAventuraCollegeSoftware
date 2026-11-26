@@ -1,1 +1,0 @@
-https://trello.com/b/lyIILtqz/viajes-aventura-poo
